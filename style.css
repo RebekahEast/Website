@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-family:monospace;
+    font-size: 100px;
+    margin: 0;
+}
+
+.selector { 
+    display: flex;
+    font-size: 30px;
+    font-family: monospace;
+    justify-content: space-evenly;
+    width: 800px;
+    margin-left: 22%;
+    margin-right: 25%;
+}
